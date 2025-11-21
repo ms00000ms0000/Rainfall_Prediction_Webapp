@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Load model
-model = pickle.load(open("model.pkl", "rb"))
+model = pickle.load(open("rainfall_prediction_model.pkl", "rb"))
 
 st.title("🌧️ Rainfall Prediction System")
 st.write("Enter the values below to predict rainfall.")
