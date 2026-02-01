@@ -1,5 +1,14 @@
 # 🌧️ Rainfall Prediction Web App
 
+## 📌 Internship Task – 4 (CODTECH)
+
+- COMPANY- CODTECH IT SOLUTIONS
+- NAME- MAYANK SRIVASTAVA
+- INTERN ID- CTIS4257
+- DOMAIN- DATA SCIENCE
+- DURATION - 12 WEEKS
+- MENTOR - NEELA SANTHOSH KUMAR
+  
 A **Data Science & Machine Learning based web application** that predicts rainfall using historical weather data.  
 The project integrates a trained ML model with an interactive web interface for real-time predictions.
 
