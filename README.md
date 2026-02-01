@@ -19,6 +19,7 @@ The trained model is deployed as a **web application**, allowing users to input 
 
 ## 📂 Repository Structure
 
+```
 Rainfall_Prediction_Webapp
 │
 ├── Rainfall_Prediction.ipynb                                                # Data analysis, preprocessing & model training
@@ -28,9 +29,6 @@ Rainfall_Prediction_Webapp
 └── README.md                                                                # Project documentation
 
 ```
----
-
-
 ---
 
 ## ✨ Features
