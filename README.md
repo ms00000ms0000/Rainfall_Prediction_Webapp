@@ -85,9 +85,13 @@ Rainfall_Prediction_Webapp
 
    ```
 
-4.  Open in Browser
-
-Visit: http://localhost:8501
+4.  Open in Browser - Visit
+5.  
+    ```bash
+    
+     http://localhost:8501
+    
+     ```
 ---
 
 ## 📊 Model Output
