@@ -1,6 +1,6 @@
 # 🌧️ Rainfall Prediction Web App
 
-## 📌 Internship Task – 4 (CODTECH)
+## 📌 Internship Task – 3 (CODTECH)
 
 - COMPANY- CODTECH IT SOLUTIONS
 - NAME- MAYANK SRIVASTAVA
